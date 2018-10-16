@@ -47,7 +47,10 @@ This app can be deployed on any python supported engine, AWS, IBM, Heroku etc.
 * Python
 
 ## Demo
-![img1](https://github.com/NischayChauhan/Self-Driving-Car/blob/master/DEMO/Demo.gif)
+### Training
+![img1](https://github.com/NischayChauhan/Real-Time-Face-Detection/blob/master/Training.png)
+### Testing
+![img1](https://github.com/NischayChauhan/Real-Time-Face-Detection/blob/master/Testing.png)
 
 ## Author
 * **Nischay Chauhan** - [linkedin](https://www.linkedin.com/in/nischaychauhan/)
